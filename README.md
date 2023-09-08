@@ -11,10 +11,11 @@ You can click the Preview link to take a look at your changes.
 <html>
   <head>
     <title>
+      </title>
     </head>
       <body>
-      <h1>this is Attitude of Program by developer</h1>
+      <h1>This is Attitude of Program by developer</h1>
       <p>Develpor made by many things of applications</p>
-    </title>
+    
   </body>
 </html>
